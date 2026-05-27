@@ -7,6 +7,22 @@ To evaluate and compare the effectiveness of prompting techniques (zero-shot, fe
 # NAME - JANANI K
 # REGISTER NUMBER - 212224230102
 
+## Algorithm
+
+Step 1: Start the process.
+
+Step 2: Input the original text/document.
+
+Step 3: Select different AI platforms for testing.
+
+Step 4: Apply various prompting techniques to the text.
+
+Step 5: Generate summaries from each AI platform.
+
+Step 6: Evaluate and compare the summaries based on accuracy and readability.
+
+Step 7: Display the best summary result and stop the process.
+
 # SCENARIO:
 
 You are part of a content curation team for an educational platform that delivers quick summaries of research papers to undergraduate students. 
